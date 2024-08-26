@@ -1,0 +1,10 @@
+Análise Comparativa: 
+Para o desenvolvimento Android, Android Studio é a escolha mais completa para iniciantes, oferecendo um ambiente integrado com ferramentas avançadas como editor de código, emulador nativo, e suporte oficial do Google. 
+Ele fornece uma solução única para todas as etapas do desenvolvimento Android, mas pode ser pesado para máquinas com menos recursos e ter uma curva de aprendizado acentuada. 
+Por outro lado, Visual Studio Code é mais leve e versátil, permitindo desenvolvimento em várias linguagens e uma interface altamente customizável através de extensões. No entanto, sua configuração adicional para suporte completo ao Android e a falta de ferramentas especializadas fazem com que não seja a melhor opção para quem está começando.
+
+Configuração de Ambiente:
+Para configurar o ambiente de desenvolvimento Android, inicie baixando e instalando o Android Studio do site oficial. 
+Durante a instalação, certifique-se de incluir o Android SDK e o Android Virtual Device (AVD). 
+Após a instalação, use o SDK Manager no Android Studio para instalar o SDK Platform-Tools e outras APIs necessárias. 
+Configure um emulador Android acessando o AVD Manager e criando um novo dispositivo virtual com as especificações desejadas. Inicie o emulador para começar a testar seus aplicativos.
